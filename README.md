@@ -2,8 +2,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg" width="100" />
   <h2 style="margin-top: 5px;">Awesome Romanian Tech</h2>
   <p>
-    <a href="https://github.com/yourusername/Awesome-Romanian-Tech/blob/main/LICENSE">
-      <img alt="GitHub License" src="https://img.shields.io/github/license/yourusername/Awesome-Romanian-Tech" />
+    <a href="https://github.com/teodorsavin/Awesome-Romanian-Tech/blob/master/LICENSE">
+      <img alt="GitHub License" src="https://img.shields.io/github/license/teodorsavin/Awesome-Romanian-Tech" />
     </a>
   </p>
 </div>

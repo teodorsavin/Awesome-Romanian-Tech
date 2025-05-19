@@ -3,7 +3,7 @@
   <h2 style="margin-top: 5px;">Awesome Romanian Tech</h2>
   <p>
     <a href="https://github.com/teodorsavin/Awesome-Romanian-Tech/blob/master/LICENSE">
-      <img alt="GitHub License" src="https://img.shields.io/github/license/teodorsavin/Awesome-Romanian-Tech" />
+      <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
     </a>
   </p>
 </div>

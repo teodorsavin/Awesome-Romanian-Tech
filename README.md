@@ -77,7 +77,7 @@ A curated list of **awesome Romanian tech** 🚀 — including startups, tools, 
 - [Tailent](https://tailent.com) 🇷🇴 – RPA platform enabling affordable automation with a digital workforce.
 
 ### Software & Consulting
-- [SIVECO Romania](https://www.siveco.ro) 🇷🇴 – Custom enterprise software and digital transformation solutions.
+
 
 ---
 
